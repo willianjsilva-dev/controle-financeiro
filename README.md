@@ -1,5 +1,4 @@
-# controle-financeiro
-Aplicação full stack de controle financeiro pessoal (React, Node.js, PostgreSQL)
+
 
 
 💰 Controle Financeiro Pessoal
