@@ -34,9 +34,7 @@ Como rodar
 Pré-requisitos
 Node.js 20+
 Docker
-1. Banco de dados
-bash
-docker compose up -d db
+1. Banco de dados MYSQL
 
 O schema (backend/db/schema.sql) é aplicado automaticamente na primeira execução.
 
