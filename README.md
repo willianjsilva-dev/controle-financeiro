@@ -28,7 +28,7 @@ Stack
 Camada	Tecnologia
 Frontend	React
 Backend	Node.js + Express
-Banco	PostgreSQL
+Banco	MySQL
 Testes	Jest + Supertest, Cypress (E2E)
 Infra	Docker + GitHub Actions
 Como rodar
